@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+nav.sect{
+    border: 2px solid aquamarine;
+    box-shadow: 0 0 10px white;
+    border-radius: 15px;
+    padding: 100px;
+}
+
+.contact {
+    background: #333;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.hero {
+    margin-top: 50px;
+}
+
+.status {
+    color: lightgreen;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 20px 0;
+}
+
+p {
+    font-size: 18px;
+}
+
+.quote-btn {
+    display: inline-block;
+    background: white;
+    color: black;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
